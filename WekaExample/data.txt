@@ -1,0 +1,5 @@
+1,'John Well', 'democrat','CA',1949-01-01
+1000,'Eric Weber', 'democrat','NC',1988-09-30
+1002,'Anna Johnson', 'republican','NC',1979-01-08
+2,'Anna Well', 'democrat','TX',1988-01-01
+3000,'Bryan Dell', 'republican','CA',1949-12-01
