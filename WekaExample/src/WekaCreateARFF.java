@@ -14,6 +14,10 @@ public class WekaCreateARFF {
 		// Holds an ArrayList of attributes.
 		ArrayList<Attribute> attributes = new ArrayList<Attribute> ();
 		
+		// Holds all of the nominal values for nominal attributes
+		ArrayList<String> politicalPartyVals = new ArrayList<String> ();
+		ArrayList<String> stateVals = new ArrayList<String> ();
+		
 		// Holds data from file.
 		ArrayList<String> data = new ArrayList<String> ();
 		
@@ -34,6 +38,7 @@ public class WekaCreateARFF {
 			// Reads the selected file.
 			while ((temp = bufferedReader.readLine()) != null) {
 				System.out.println (temp);
+				data.add (temp);
 			}
 			
 			// Closes the selected file after it's done reading.
@@ -44,16 +49,28 @@ public class WekaCreateARFF {
 			System.out.println ("Error reading file!");
 		}
 		
+		// Adds all the values for each nominal type attribute
+		politicalPartyVals.add ("democrat");
+		politicalPartyVals.add ("republican");
+		stateVals.add ("CA");
+		stateVals.add ("TX");
+		stateVals.add ("NY");
+		stateVals.add ("NC");
+		stateVals.add ("SC");
+		
 		// Adds all the required attributes.
 		attributes.add (new Attribute ("id"));
-		attributes.add (new Attribute ("name"));
-		attributes.add (new Attribute ("political party"));
-		attributes.add (new Attribute ("state"));
-		attributes.add (new Attribute ("birth date"));
+		attributes.add (new Attribute ("name", (ArrayList<String>) null));
+		attributes.add (new Attribute ("political party", politicalPartyVals));
+		attributes.add (new Attribute ("state", stateVals));
+		attributes.add (new Attribute ("birth date", "yyyy-MM-dd"));
 		
-		// Instantiates dataSet
+		// Create Instances object
 		dataSet = new Instances ("SimpleARFF", attributes, 0);
 		
-		
+		// Add the data
+		for (String line : data) {
+			
+		}
 	}
 }
