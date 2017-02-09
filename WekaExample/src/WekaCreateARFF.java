@@ -5,14 +5,13 @@ import java.io.FileReader;
 import java.io.IOException;
 import weka.core.Attribute;
 import weka.core.DenseInstance;
-import weka.core.Instance;
 
 import java.util.*;
 import weka.core.Instances;
 import weka.core.converters.ArffSaver;
 
 public class WekaCreateARFF {
-	public static void main(String[] args) throws Exception {
+	public static void main (String[] args) throws Exception {
 		// Holds an ArrayList of attributes.
 		ArrayList<Attribute> attributes = new ArrayList<Attribute> ();
 		

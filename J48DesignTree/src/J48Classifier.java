@@ -6,7 +6,7 @@ import weka.core.converters.ArffLoader.ArffReader;
 
 public class J48Classifier {
 	public static void main (String[] args) throws Exception {
-		// Reads the desired file.
+		/*// Reads the desired file.
 		BufferedReader reader = new BufferedReader (new FileReader ("weather.nominal.arff"));
 
 		// Reads data from the arff file.
@@ -18,6 +18,7 @@ public class J48Classifier {
 		// Makes the last attribute the class
 		arffData.setClassIndex (arffData.numAttributes () - 1);
 
-		System.out.println (arffData);
+		System.out.println (arffData);*/
+		System.out.println ("TEST");
 	}
 }
