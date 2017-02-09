@@ -1,0 +1,3 @@
+sunny,hot,high,TRUE,?
+rainy,cool,normal,FALSE,?
+overcast,mild,high,TRUE,?
