@@ -1,0 +1,1001 @@
+price, maintenance cost, doors, seating, trunk size, safety rating, class
+high,low,four,four,small,****,-
+low,high,,five +,large,**,-
+med,high,four,three,,**,-
+high,high,five +,three,small,**,-
+med,high,two,four,med,***,-
+med,high,three,five +,small,***,-
+,low,two,five +,med,*,-
+high,low,two,five +,small,***,-
+high,low,three,four,small,***,-
+low,high,four,three,large,***,-
+high,med,five +,four,large,**,+
+med,med,four,four,small,****,-
+high,low,four,two,small,*,+
+high,high,five +,four,small,***,-
+high,high,four,two,large,*****,-
+high,low,three,four,small,**,-
+med,low,two,five +,large,*****,-
+,low,five +,five +,med,***,-
+high,med,,five +,,***,-
+high,high,two,four,large,*****,+
+med,high,three,two,large,*****,-
+high,low,four,three,small,****,-
+high,high,four,four,large,*****,-
+high,high,three,two,med,**,-
+low,med,three,five +,med,*,-
+high,high,three,five +,large,*,-
+high,med,four,five +,large,*****,-
+low,med,five +,three,med,**,+
+high,low,two,three,large,*,-
+med,low,two,three,med,****,+
+low,low,three,three,med,***,+
+low,med,five +,four,small,****,+
+low,high,five +,three,med,**,-
+med,med,three,two,med,**,-
+low,low,four,three,small,**,-
+high,high,two,five +,med,***,-
+high,low,five +,two,med,*****,-
+low,med,four,four,med,***,+
+med,low,three,five +,small,*****,-
+med,,five +,three,large,***,-
+high,low,five +,five +,med,****,-
+low,low,three,,small,*,-
+,low,three,three,large,*****,-
+low,high,five +,five +,med,***,-
+low,high,five +,four,small,*****,-
+high,high,four,three,large,*,+
+med,low,three,five +,med,***,-
+med,med,three,two,large,****,-
+low,high,four,two,small,**,-
+low,high,two,three,small,****,+
+low,med,three,two,med,****,-
+med,med,three,five +,large,*,-
+low,high,five +,three,large,****,-
+high,high,four,five +,med,****,-
+high,low,three,five +,small,*****,-
+high,med,three,five +,med,***,-
+high,,two,three,small,*,-
+,low,three,three,med,,+
+med,high,five +,three,large,**,-
+med,med,four,four,small,*****,-
+low,high,three,four,large,**,-
+low,med,three,three,small,,-
+low,low,four,three,large,**,-
+high,low,four,three,large,****,-
+low,low,four,three,small,****,-
+low,low,five +,two,large,****,-
+low,high,two,three,med,*****,-
+med,high,five +,five +,small,*,-
+med,med,three,four,small,*,-
+high,low,two,three,med,*,-
+med,high,four,two,med,***,-
+med,high,two,three,med,*****,-
+med,med,five +,four,large,*,-
+low,low,five +,two,small,*,-
+med,high,four,five +,large,****,+
+low,low,,four,med,*****,-
+low,med,three,five +,med,*,-
+low,high,four,four,small,****,-
+low,low,four,four,small,*****,-
+low,low,two,,small,****,+
+low,med,three,two,large,****,-
+low,high,five +,three,med,***,-
+med,med,two,five +,small,*,-
+low,med,three,three,large,****,-
+low,high,five +,two,large,*,-
+high,high,four,three,large,*****,-
+high,high,two,five +,med,***,-
+low,high,three,four,large,***,-
+med,low,four,four,med,*****,+
+low,high,three,four,large,**,-
+med,med,,five +,small,,-
+low,low,two,two,med,***,-
+high,high,three,five +,large,*,-
+med,low,two,three,large,****,-
+med,med,five +,five +,large,*****,-
+med,low,five +,five +,small,*,+
+,high,five +,two,med,**,-
+low,low,four,three,large,**,-
+med,med,three,five +,large,*****,-
+low,med,three,three,med,***,-
+med,low,four,five +,small,***,+
+low,med,three,three,med,***,+
+high,med,three,five +,med,***,-
+med,low,five +,four,large,*,+
+high,high,four,four,large,*,-
+high,low,three,five +,small,*,-
+low,low,three,five +,large,**,-
+high,low,three,two,med,***,-
+med,high,five +,four,small,**,-
+med,high,two,two,large,*,-
+low,low,four,five +,small,*****,-
+high,high,four,two,med,***,-
+med,high,three,two,med,****,+
+high,med,four,two,med,*,-
+med,med,four,three,med,*****,-
+high,med,three,two,small,*,-
+low,high,four,three,med,***,-
+low,med,four,four,med,****,+
+high,low,four,two,small,**,-
+high,low,four,three,large,*****,-
+high,low,four,five +,large,****,-
+low,med,five +,five +,med,***,+
+high,low,four,five +,large,*,-
+high,high,four,three,med,*****,-
+low,high,three,four,large,*****,-
+high,low,five +,three,large,*****,-
+high,med,five +,five +,med,*****,-
+med,med,three,four,large,*****,-
+med,med,,,large,*,-
+high,low,three,four,large,**,-
+med,med,five +,three,med,**,-
+high,med,two,four,small,*****,-
+med,high,three,four,med,***,-
+low,med,two,five +,med,****,+
+high,med,four,three,med,*****,-
+low,low,five +,five +,med,****,-
+low,low,four,five +,large,*****,+
+high,high,five +,four,large,***,-
+high,med,two,two,large,*****,-
+high,low,five +,five +,large,****,-
+low,low,five +,four,med,**,-
+high,high,three,three,,*,-
+high,high,two,two,med,*****,-
+high,high,four,three,small,****,-
+med,med,four,four,large,*,-
+med,high,four,two,med,***,-
+low,high,three,two,med,***,-
+high,low,two,three,med,****,-
+,low,five +,five +,med,**,-
+med,high,five +,four,small,*,-
+low,low,five +,three,large,*,-
+high,med,three,four,large,*,-
+high,med,three,two,,***,-
+med,med,three,four,small,****,-
+low,low,four,two,small,****,-
+low,high,three,five +,med,**,+
+med,med,two,four,large,****,-
+low,high,three,three,,***,+
+high,high,five +,two,large,*****,+
+med,low,five +,five +,large,*,+
+med,med,three,two,large,***,-
+med,med,five +,four,small,**,-
+med,low,five +,two,med,,+
+med,med,three,five +,small,****,-
+med,high,five +,three,small,*,-
+med,low,two,four,small,**,-
+high,med,three,five +,med,*,-
+high,low,four,two,large,****,+
+med,med,four,three,small,***,-
+med,low,five +,five +,med,*****,+
+high,,four,three,small,*,-
+high,low,five +,four,med,****,-
+low,high,five +,two,large,*****,+
+med,low,three,two,med,***,-
+med,low,three,five +,med,****,-
+low,high,four,five +,med,*,-
+low,low,three,three,med,****,-
+med,low,four,four,large,****,+
+low,low,five +,two,large,**,-
+high,low,two,four,large,**,-
+med,high,four,five +,large,*,-
+low,high,three,two,large,****,-
+high,high,three,four,med,*,-
+low,med,four,five +,small,****,+
+low,low,four,four,med,*,-
+high,med,five +,four,large,*****,-
+high,med,three,four,med,****,-
+med,med,two,two,med,**,-
+med,med,four,four,large,*****,-
+high,med,four,five +,small,*****,-
+high,low,three,three,large,***,-
+low,med,four,three,med,***,+
+med,low,four,three,med,****,+
+high,low,three,two,small,**,-
+med,low,three,three,med,****,-
+high,med,three,four,small,*,-
+low,med,three,five +,small,***,-
+high,high,two,five +,large,*****,-
+low,low,four,three,large,***,-
+med,low,two,five +,small,****,+
+low,low,three,three,small,*****,-
+low,high,four,,large,*****,-
+med,med,two,two,large,*,-
+high,low,two,three,,***,-
+low,,three,two,large,*****,-
+med,high,two,four,small,***,-
+med,low,four,five +,large,*,+
+low,med,five +,five +,small,*,+
+high,med,three,four,med,****,-
+high,high,two,three,small,*,+
+low,low,four,two,small,**,-
+low,med,two,four,small,*,-
+low,low,five +,five +,med,****,-
+low,low,two,four,small,****,-
+med,low,three,three,small,***,-
+high,med,four,five +,med,****,-
+low,low,two,four,med,*****,-
+med,low,five +,four,large,*,+
+high,high,five +,three,small,***,-
+high,high,two,two,large,****,+
+high,high,five +,four,small,*****,-
+med,low,four,three,large,****,+
+low,low,five +,four,large,*,-
+med,low,two,two,large,*****,+
+low,high,four,two,small,***,-
+med,high,two,four,small,**,-
+med,med,four,two,small,***,-
+low,med,two,five +,med,***,-
+high,low,four,five +,large,*****,-
+high,med,four,five +,large,*,-
+low,low,four,three,large,***,-
+high,med,four,two,large,***,-
+med,high,five +,three,med,*****,-
+low,med,four,two,med,****,+
+high,high,three,three,small,**,-
+med,med,three,four,large,****,-
+med,low,two,two,small,*,-
+med,low,two,two,large,****,-
+med,med,three,two,large,***,-
+med,low,four,three,small,*****,+
+high,med,three,five +,small,**,-
+low,low,,two,med,*****,-
+low,low,four,two,med,*****,-
+low,med,three,three,large,***,+
+high,low,five +,four,med,*****,-
+high,low,four,three,large,***,-
+low,med,five +,five +,med,*****,+
+low,med,five +,five +,small,*****,+
+high,high,two,five +,large,****,-
+med,high,two,five +,large,**,-
+,med,four,five +,med,**,-
+med,low,four,five +,med,****,+
+low,med,,four,large,*****,-
+low,med,two,five +,med,****,-
+med,med,four,four,small,*****,-
+high,low,three,two,small,**,+
+low,high,two,two,med,*,+
+high,med,three,four,large,***,-
+high,med,two,three,small,***,-
+med,low,five +,four,small,****,+
+med,low,three,four,large,***,+
+low,high,four,three,large,**,-
+high,med,two,five +,large,**,-
+high,high,four,four,large,**,-
+high,high,three,five +,small,**,-
+high,med,three,,large,****,-
+med,high,three,five +,large,**,-
+med,med,four,five +,large,*,-
+high,med,two,three,med,**,-
+med,med,four,four,med,**,-
+high,low,four,five +,small,**,-
+low,med,four,three,large,*****,+
+med,high,five +,four,large,*****,-
+high,low,five +,four,small,*****,-
+low,low,five +,five +,small,****,+
+med,med,three,four,med,**,-
+high,med,five +,two,large,**,-
+high,,four,five +,large,**,-
+high,med,two,two,large,*****,-
+low,low,three,two,large,*,-
+low,high,two,five +,small,****,+
+high,high,five +,five +,small,*,-
+high,med,three,five +,large,****,-
+low,low,five +,three,med,*****,-
+med,med,three,five +,med,*****,+
+high,high,five +,three,large,****,-
+med,low,three,two,small,*,-
+high,med,two,four,med,*****,-
+med,med,four,two,large,**,-
+med,med,three,five +,med,**,-
+med,high,three,four,large,**,-
+high,low,five +,two,large,****,+
+high,high,five +,two,large,*,+
+low,high,three,four,small,****,-
+high,,four,five +,small,**,+
+high,low,five +,three,med,*,-
+low,med,two,two,large,*,-
+low,high,four,five +,med,*****,-
+high,med,two,four,small,**,-
+high,med,three,four,large,***,-
+med,low,two,four,med,*,-
+high,med,three,five +,med,*,-
+high,med,three,three,large,****,-
+med,,,five +,small,*,-
+med,high,three,four,small,***,-
+med,low,five +,five +,large,*****,+
+med,med,three,four,small,***,-
+low,low,two,five +,small,*,-
+med,high,,two,large,****,+
+med,high,four,five +,large,***,+
+high,low,five +,four,med,****,-
+low,med,five +,three,med,,+
+low,low,five +,two,large,*,-
+high,high,five +,four,small,**,-
+high,low,two,five +,small,****,-
+low,med,two,four,large,*****,-
+high,high,three,three,large,****,-
+med,high,four,two,small,**,+
+low,med,four,three,large,**,+
+low,high,two,three,large,****,-
+med,high,four,five +,med,***,-
+med,high,,four,small,**,-
+med,low,five +,four,large,*****,+
+low,high,two,two,med,**,-
+med,med,five +,two,large,*****,-
+med,high,three,four,large,*****,-
+med,low,,three,med,**,-
+med,high,four,four,med,*****,-
+high,low,five +,two,large,*****,-
+high,high,two,five +,large,*****,-
+low,high,four,four,med,*,-
+med,med,three,,small,*,-
+low,med,three,three,small,**,-
+med,high,four,four,med,,+
+med,med,three,four,small,****,+
+med,med,four,three,med,***,-
+med,low,four,four,large,**,+
+med,low,four,five +,med,*****,+
+low,med,four,five +,small,*,+
+high,high,three,five +,med,***,-
+med,med,three,five +,med,*****,-
+low,med,four,three,med,****,+
+high,med,three,four,large,****,-
+low,med,four,four,small,***,+
+high,low,three,three,large,*****,-
+med,high,three,three,large,***,-
+high,med,,five +,large,*****,-
+low,med,five +,two,med,****,+
+low,med,two,five +,small,*,-
+high,med,five +,five +,small,****,-
+med,low,five +,four,small,**,+
+med,med,three,three,large,***,-
+med,med,four,three,small,*,-
+high,med,four,two,large,*,-
+low,low,five +,three,med,*****,-
+low,high,three,two,small,*****,-
+high,,four,three,med,****,-
+med,med,two,four,med,****,-
+low,med,three,two,small,*,-
+med,high,three,five +,med,****,-
+high,low,two,five +,small,****,-
+high,high,four,two,small,****,-
+high,high,four,four,large,***,-
+low,low,five +,three,med,*****,-
+med,med,five +,two,large,**,-
+low,med,,two,small,***,-
+,low,two,three,med,****,-
+med,high,two,five +,large,**,-
+high,low,four,three,med,****,-
+low,med,five +,three,med,***,+
+high,high,five +,four,large,*****,-
+low,med,five +,three,large,*****,+
+low,med,four,five +,med,*****,+
+low,med,two,two,med,****,-
+low,med,five +,five +,large,**,+
+med,med,three,two,large,*,-
+med,high,three,four,med,**,-
+high,high,four,three,large,**,-
+med,med,five +,three,med,**,-
+low,med,four,five +,large,****,+
+med,med,two,four,med,****,-
+high,low,two,five +,small,***,-
+med,high,three,five +,large,****,-
+low,low,five +,two,large,*****,-
+high,low,four,two,large,*,-
+med,med,three,two,large,**,-
+high,low,five +,five +,med,*****,-
+med,med,two,four,large,****,-
+low,high,two,four,small,*****,-
+high,low,two,four,small,**,-
+med,med,two,two,med,**,-
+med,high,four,five +,large,****,-
+med,low,four,five +,large,*****,+
+med,high,four,three,large,**,-
+high,med,two,two,med,***,-
+low,high,three,three,large,*,-
+low,high,five +,five +,small,****,-
+med,low,four,two,med,****,+
+med,high,two,four,med,***,-
+med,low,three,two,small,*,-
+med,low,five +,five +,small,****,+
+med,low,four,three,large,*,+
+high,med,three,five +,small,***,-
+low,low,five +,two,med,*,-
+high,low,four,two,small,*,-
+med,high,five +,five +,large,****,-
+high,low,two,two,med,**,-
+low,med,four,two,small,*****,+
+low,low,four,four,small,****,-
+med,high,four,two,small,**,-
+med,med,five +,three,large,*,-
+low,high,three,five +,small,*****,-
+high,high,four,two,large,****,-
+med,high,five +,four,small,***,-
+low,med,four,three,small,***,+
+med,low,five +,two,med,**,+
+high,med,five +,four,large,***,-
+high,med,three,three,med,*,-
+low,high,five +,four,large,*****,-
+low,low,four,three,small,*,+
+med,med,two,four,large,**,-
+high,med,three,four,med,**,-
+med,med,three,three,large,***,-
+low,high,two,four,small,,-
+med,low,two,three,med,****,+
+low,med,three,,med,****,+
+med,med,three,two,small,**,-
+low,low,four,five +,med,***,-
+med,high,four,four,large,*,+
+low,med,four,two,large,****,+
+med,high,five +,two,large,**,-
+high,high,five +,three,small,*****,-
+high,med,three,four,large,*,+
+med,low,three,three,large,***,+
+low,low,three,four,small,*,-
+med,high,five +,four,large,**,-
+high,high,two,four,small,**,-
+med,high,three,three,large,*****,-
+low,low,two,three,large,**,-
+high,med,three,three,large,*****,-
+low,med,three,five +,small,*,-
+med,low,five +,two,small,*****,+
+low,high,two,two,med,*****,-
+med,low,four,two,med,***,+
+low,med,three,three,small,****,-
+high,high,five +,two,large,*****,-
+low,med,five +,three,med,****,+
+low,med,three,two,med,**,-
+low,low,four,four,large,*****,+
+low,high,three,four,large,****,-
+med,high,five +,five +,med,***,-
+low,low,four,three,med,*,-
+low,high,two,five +,small,*****,-
+med,med,three,five +,small,**,-
+high,med,four,three,med,*,-
+high,high,three,five +,med,**,-
+,med,five +,three,small,****,-
+med,med,four,four,med,,-
+high,med,three,five +,small,*****,-
+high,low,five +,five +,small,**,-
+high,med,five +,two,large,**,-
+med,high,five +,two,small,*,-
+,low,three,four,large,***,-
+low,med,five +,five +,small,****,+
+high,high,four,four,med,***,-
+high,high,five +,three,med,***,-
+low,med,four,five +,med,*,+
+med,high,four,two,small,*****,-
+high,high,three,three,small,**,-
+med,low,four,four,med,*,+
+low,high,three,two,large,***,-
+med,med,three,five +,med,****,-
+low,high,four,three,med,****,-
+low,low,two,two,med,*,-
+med,low,five +,four,med,***,+
+high,med,four,four,small,****,-
+med,low,five +,three,small,*,+
+med,low,four,two,med,*,+
+med,med,three,two,small,****,-
+low,high,five +,five +,med,****,-
+low,high,five +,four,large,**,-
+med,med,two,two,med,**,-
+low,med,,four,small,***,-
+med,high,three,three,small,**,-
+low,low,two,four,med,*,-
+high,med,three,two,med,*****,-
+low,med,two,two,small,**,+
+high,low,five +,two,med,****,-
+low,med,four,four,med,*,+
+low,high,four,two,small,**,-
+low,med,five +,three,small,*,+
+med,low,three,two,small,***,-
+low,high,five +,two,small,*,-
+high,med,two,three,small,*****,-
+high,high,two,two,large,*****,-
+low,low,four,five +,med,***,-
+med,low,five +,five +,large,**,+
+med,low,three,four,small,**,-
+high,high,two,five +,small,*,-
+high,low,three,four,small,*,-
+low,low,three,four,med,****,-
+low,med,five +,two,small,**,+
+low,high,three,four,small,***,-
+low,low,four,four,med,***,-
+med,low,four,two,med,****,+
+med,,three,three,small,*****,-
+low,low,four,four,large,*****,+
+med,high,three,two,med,**,-
+high,high,three,four,small,****,-
+low,med,four,three,med,*****,+
+med,low,five +,three,small,*****,+
+,med,four,three,med,**,-
+low,high,four,three,med,****,-
+med,low,two,five +,small,****,-
+low,med,five +,three,large,*****,+
+low,low,three,five +,large,*****,-
+high,high,five +,two,med,*****,-
+med,med,two,three,large,****,-
+med,low,five +,four,med,**,+
+low,,two,three,med,****,-
+high,med,two,five +,med,****,+
+low,high,four,five +,large,*****,-
+med,,three,four,small,***,-
+low,,four,four,large,*****,+
+high,low,four,two,large,*****,-
+high,med,four,two,small,*,-
+low,high,five +,two,small,**,-
+high,med,two,five +,med,**,+
+low,high,four,five +,large,**,-
+med,med,four,three,small,**,-
+high,,four,two,small,*****,-
+high,med,two,five +,small,*,-
+low,high,two,three,large,***,-
+low,med,five +,five +,large,***,+
+med,med,two,two,large,***,-
+low,low,five +,five +,med,***,-
+,low,five +,three,small,*,-
+low,,five +,four,med,***,-
+med,low,five +,two,med,*,+
+low,low,two,five +,small,*,-
+high,med,three,two,small,*,-
+med,high,two,four,med,**,-
+high,high,five +,three,med,**,-
+med,high,four,five +,large,,-
+med,med,three,,small,***,+
+med,high,three,four,small,*****,-
+low,low,three,two,small,****,-
+high,low,five +,five +,large,****,-
+med,low,three,four,small,*,-
+high,med,four,five +,large,*****,+
+low,med,five +,four,large,*****,+
+med,med,two,three,med,***,-
+high,med,five +,five +,small,*****,-
+high,med,four,two,med,**,-
+med,low,three,three,small,*****,-
+high,med,two,three,small,***,-
+low,low,four,four,med,**,-
+low,high,five +,,med,*****,-
+high,med,five +,four,small,****,-
+med,high,,four,med,**,-
+low,low,five +,four,small,*,-
+med,high,three,five +,large,*****,+
+med,high,four,three,small,****,-
+med,low,five +,three,small,****,+
+high,med,five +,four,med,*****,-
+med,high,five +,two,small,*,-
+high,med,five +,two,small,*****,-
+low,high,four,four,small,**,-
+low,med,five +,five +,small,***,+
+low,low,two,two,large,*****,-
+med,high,three,four,med,****,-
+med,med,four,four,small,**,-
+low,high,two,four,large,**,-
+high,high,three,two,med,*****,-
+low,med,three,four,large,*****,-
+low,high,three,five +,small,*,-
+high,low,three,four,large,****,-
+low,high,four,five +,med,****,-
+low,high,three,five +,med,****,-
+high,low,two,four,small,*****,-
+low,low,four,five +,small,*****,-
+high,high,three,three,med,*,-
+high,med,five +,two,large,****,-
+low,med,two,five +,med,*,+
+low,low,three,three,large,**,-
+med,med,four,five +,large,***,-
+med,,two,three,,****,-
+med,,two,five +,large,,-
+low,high,five +,three,large,***,-
+high,med,three,five +,large,*,-
+med,low,three,two,small,*****,-
+high,high,five +,four,large,*,-
+high,high,five +,five +,med,*,-
+high,med,five +,five +,small,*,-
+high,low,four,four,med,*****,-
+med,high,five +,two,small,****,-
+med,low,five +,four,med,***,+
+med,low,four,three,med,**,+
+high,high,two,five +,small,***,-
+med,med,four,four,small,*,-
+med,high,three,three,large,,-
+med,low,two,four,small,****,-
+low,low,four,two,small,**,-
+med,low,five +,two,med,**,+
+high,low,four,three,small,**,-
+high,low,five +,three,med,***,-
+low,low,two,two,med,***,-
+med,med,two,five +,large,**,-
+high,low,two,four,large,**,-
+med,high,four,three,large,*****,-
+high,med,four,three,large,,-
+low,high,two,three,large,****,-
+high,low,five +,five +,large,****,-
+med,high,three,three,small,****,-
+med,low,two,five +,med,*****,-
+high,med,four,four,small,*,-
+high,high,five +,two,med,*****,-
+high,low,five +,three,large,****,-
+high,med,five +,four,med,****,-
+low,high,four,four,large,*****,-
+med,high,four,,small,***,-
+low,high,three,three,small,***,-
+high,high,two,two,,***,-
+high,high,five +,five +,large,,-
+low,low,three,five +,med,*****,-
+high,med,five +,two,large,*****,-
+high,low,three,two,med,***,-
+high,high,five +,five +,small,*****,-
+low,med,four,four,,****,+
+high,high,three,three,small,*,-
+low,med,five +,five +,large,*****,+
+med,med,two,five +,small,*,-
+high,med,two,four,large,*,-
+high,med,four,two,small,**,-
+med,low,four,four,med,**,+
+low,med,three,four,small,*,-
+med,med,three,four,small,***,-
+high,high,two,three,small,****,-
+med,high,five +,three,small,*****,-
+low,med,two,five +,large,***,-
+low,high,three,five +,med,*,-
+med,,three,four,med,**,-
+med,low,two,four,small,*****,-
+low,med,three,four,large,****,+
+low,low,three,four,small,***,-
+low,high,three,two,small,**,-
+med,high,three,four,med,****,-
+low,,five +,five +,med,**,-
+low,med,five +,five +,med,**,+
+med,med,four,two,large,*,-
+low,low,five +,two,med,*****,-
+low,high,five +,four,med,*,-
+med,high,four,five +,large,**,-
+low,low,three,five +,med,****,-
+med,high,five +,five +,small,*****,+
+,high,four,three,small,***,-
+low,high,four,five +,large,***,-
+med,med,three,three,med,***,-
+med,high,five +,five +,small,***,-
+med,med,five +,two,med,*****,-
+med,med,four,four,large,**,-
+high,high,two,five +,large,**,-
+low,high,two,three,large,*,-
+high,,two,five +,med,*,+
+high,med,four,two,large,*****,-
+med,low,three,four,small,****,+
+med,low,five +,three,med,*,+
+low,high,three,four,med,**,-
+low,high,five +,five +,med,*****,-
+high,low,two,five +,small,****,-
+high,high,four,four,small,*****,-
+high,high,five +,two,med,****,-
+low,high,four,four,med,****,-
+high,low,three,four,med,***,-
+med,med,four,four,med,***,-
+low,high,three,four,small,*,-
+med,low,two,three,med,***,-
+low,med,three,three,small,*****,-
+low,low,two,five +,large,**,-
+low,med,three,five +,med,,-
+low,low,three,five +,med,*,-
+med,med,three,three,small,*,-
+high,high,four,two,small,*****,-
+med,low,five +,five +,small,**,+
+med,low,four,three,small,*,+
+med,low,two,two,large,****,-
+med,high,four,five +,small,*,-
+high,med,four,four,large,**,-
+high,med,three,two,large,*,-
+med,med,two,two,med,****,-
+low,low,four,four,small,***,-
+,high,two,five +,med,****,-
+low,high,five +,three,,****,+
+high,high,four,five +,med,***,-
+low,med,three,three,large,****,-
+low,high,five +,four,large,*,-
+med,low,four,two,large,****,+
+med,high,two,five +,med,*****,-
+low,med,two,two,small,**,-
+med,high,five +,five +,large,**,-
+med,high,four,five +,small,****,-
+low,med,two,four,large,***,-
+high,high,two,three,small,*****,-
+low,med,three,five +,small,*****,-
+low,low,four,five +,small,**,-
+low,high,five +,five +,small,*,+
+low,med,two,two,large,***,-
+low,high,five +,four,med,***,-
+high,med,four,two,med,**,-
+low,low,four,two,large,*****,-
+low,med,four,four,small,**,+
+med,high,two,three,med,*,-
+med,high,two,two,large,***,-
+med,med,two,three,large,**,-
+high,high,three,four,large,**,-
+low,high,four,two,large,*,-
+med,med,three,two,small,*****,-
+low,low,four,five +,large,***,-
+med,med,five +,five +,med,***,-
+med,med,three,three,med,****,+
+low,med,five +,four,large,*,+
+high,med,five +,three,med,***,-
+high,med,two,five +,large,*,-
+med,high,four,two,large,*****,+
+high,med,five +,four,small,**,-
+low,med,two,five +,large,*****,-
+high,med,four,five +,small,*****,+
+high,low,two,four,large,*,-
+low,low,five +,four,small,,-
+low,high,two,three,large,***,-
+high,low,five +,five +,small,****,-
+med,low,five +,five +,large,**,+
+low,med,three,three,small,****,-
+high,high,two,five +,med,****,-
+med,low,five +,five +,small,**,+
+med,low,five +,five +,large,*****,+
+low,low,two,three,med,****,+
+,high,five +,four,small,*****,-
+med,med,five +,three,large,*****,-
+high,med,two,three,small,*****,-
+low,low,two,three,med,****,+
+high,low,four,two,large,**,+
+low,low,two,three,large,***,-
+med,low,five +,two,large,**,+
+high,high,five +,two,small,*****,-
+low,med,five +,four,med,*,+
+med,low,two,five +,large,*****,-
+high,low,five +,three,small,**,+
+med,high,five +,three,large,****,-
+high,med,,two,large,***,-
+low,med,two,two,large,***,-
+high,low,three,four,small,**,-
+med,high,four,five +,large,*****,-
+low,med,five +,five +,med,*,+
+med,low,four,two,,*****,+
+high,high,two,five +,med,*****,-
+med,med,five +,three,small,****,-
+low,low,four,five +,large,**,-
+high,low,five +,five +,small,*,+
+high,med,two,four,small,**,-
+med,low,two,four,med,***,-
+high,low,two,five +,large,**,-
+low,med,three,three,large,*****,-
+low,med,three,two,med,****,-
+low,high,five +,three,med,***,-
+med,med,five +,three,,,-
+low,med,three,four,small,*****,-
+high,med,three,two,small,*****,-
+low,high,two,four,small,*,-
+med,low,two,two,small,*,+
+med,low,four,five +,med,*,+
+high,low,three,five +,small,****,-
+med,high,four,three,large,**,-
+med,high,four,three,med,*****,-
+high,high,five +,five +,small,*****,-
+med,med,four,five +,small,***,-
+high,med,five +,five +,small,**,-
+high,med,four,two,med,****,-
+low,med,four,four,small,**,+
+high,med,two,five +,med,***,-
+med,low,three,three,large,**,-
+low,low,three,four,small,****,-
+med,med,four,five +,large,*,-
+low,med,three,three,med,***,-
+med,low,two,five +,large,***,+
+high,med,five +,five +,med,*****,-
+high,high,four,three,small,***,-
+low,low,three,five +,med,***,-
+med,high,three,two,small,*****,-
+med,low,two,four,small,***,-
+high,med,three,four,small,*,-
+,med,five +,two,med,***,-
+high,med,two,two,small,***,-
+high,high,four,two,small,***,-
+low,med,three,three,med,*,-
+low,med,three,four,med,*****,-
+high,high,three,four,small,**,-
+low,low,three,four,small,***,-
+med,,three,four,large,*****,-
+low,med,two,four,small,**,+
+high,low,four,two,med,**,-
+med,med,two,three,med,*****,-
+low,high,two,two,small,***,-
+med,low,four,five +,large,*,+
+high,med,two,two,small,*,-
+med,med,two,two,med,****,-
+high,med,four,four,small,*****,+
+high,med,five +,three,med,*,-
+med,low,five +,three,med,*,+
+low,high,two,four,small,**,-
+high,low,two,four,large,*,-
+high,high,five +,four,small,*,-
+high,high,two,two,large,***,-
+med,high,two,five +,med,*,-
+med,med,two,four,small,****,-
+low,low,four,two,small,*,-
+med,high,five +,three,med,****,-
+low,high,five +,two,large,**,-
+low,high,four,four,large,****,-
+high,low,two,five +,large,*****,-
+med,med,four,two,med,****,-
+high,high,four,two,small,***,+
+high,high,three,three,med,*,-
+med,high,five +,five +,med,****,-
+low,low,five +,five +,small,*,-
+low,low,two,five +,small,**,-
+high,med,four,,small,***,-
+low,med,two,five +,med,*****,-
+med,high,four,three,med,****,-
+low,low,three,four,large,*,-
+low,med,four,two,large,**,+
+low,low,five +,five +,small,****,+
+med,med,three,three,large,**,-
+low,med,four,two,med,*****,+
+high,med,two,five +,large,****,-
+,med,four,four,med,***,+
+high,low,five +,two,small,****,-
+high,low,five +,four,small,*,-
+med,,two,five +,med,*,-
+low,high,three,five +,med,*****,-
+med,med,five +,two,small,***,-
+low,med,five +,two,large,***,+
+low,med,four,five +,large,***,+
+high,high,two,five +,large,****,-
+low,low,three,two,large,*****,-
+med,high,,five +,small,***,-
+low,high,three,five +,large,*****,-
+low,high,four,two,small,*,-
+low,high,three,five +,med,***,-
+high,med,five +,three,large,**,-
+high,med,two,two,large,**,-
+high,high,two,five +,large,***,-
+med,med,three,two,med,**,-
+high,high,five +,three,large,*,-
+high,med,four,two,large,*,-
+high,med,two,five +,small,*****,-
+med,med,five +,five +,small,*****,-
+high,low,five +,four,large,*,-
+high,high,five +,three,med,*****,+
+high,med,five +,five +,large,*****,-
+high,med,three,three,med,*,-
+low,high,three,two,med,****,-
+med,high,five +,three,large,****,+
+high,med,five +,five +,large,****,-
+high,med,five +,five +,large,**,-
+high,low,three,four,large,,-
+high,high,,five +,small,****,-
+med,med,four,four,med,***,-
+med,high,two,five +,small,**,-
+med,low,four,three,med,***,+
+low,med,five +,four,large,****,+
+med,med,two,four,med,*,-
+low,low,three,four,small,***,-
+high,low,five +,four,small,**,-
+high,low,four,five +,large,*****,-
+low,high,four,five +,med,****,-
+med,,three,five +,small,*,-
+low,high,four,five +,small,*****,-
+low,low,three,two,small,*,-
+low,low,three,four,large,***,-
+low,high,five +,two,large,*****,+
+low,low,two,five +,med,**,+
+low,low,three,three,small,***,+
+med,med,four,three,large,***,-
+med,med,,three,small,***,-
+low,med,two,five +,,****,-
+low,high,five +,three,med,**,-
+med,high,three,four,med,**,-
+med,high,three,four,large,**,-
+med,med,three,two,med,****,-
+high,med,four,five +,med,**,-
+med,high,five +,three,small,****,-
+high,med,four,two,large,**,-
+med,med,four,four,small,**,-
+low,low,three,four,large,*****,-
+,med,four,five +,small,***,-
+high,low,five +,four,large,*****,-
+med,med,four,four,small,***,-
+med,high,five +,three,large,****,-
+med,high,five +,two,large,***,-
+med,high,four,five +,small,**,-
+med,low,five +,two,large,**,+
+med,low,five +,two,large,*,+
+,high,five +,four,small,*,-
+high,,two,five +,large,****,-
+low,low,five +,three,small,****,-
+low,high,four,four,,***,-
+high,low,four,three,large,****,-
+med,high,three,three,large,****,-
+high,low,three,two,large,****,-
+high,low,four,four,med,**,-
+high,med,five +,two,med,**,-
+med,med,four,two,large,*****,-
+low,high,four,four,large,*,-
+low,low,five +,four,small,*,-
+med,high,five +,two,small,*****,-
+high,low,four,four,large,****,-
+low,high,four,three,med,****,-
+med,high,two,three,med,****,-
+low,med,five +,two,large,***,+
+low,low,two,two,small,***,-
+low,high,three,three,med,*****,+
+med,low,three,three,med,*,-
+low,low,four,five +,large,*,-
+med,high,five +,two,,**,-
+high,high,four,five +,small,*****,-
+high,med,two,two,med,*,-
+med,low,five +,five +,small,****,+
+high,high,five +,two,med,*,-
+med,med,five +,two,large,****,+
+high,high,two,five +,med,*,-
+low,high,five +,two,med,****,-
+low,high,four,two,med,*****,-
+med,high,four,three,small,***,-
+high,med,five +,two,large,**,-
+low,med,three,four,med,*,-
+low,high,five +,three,small,*****,-
+low,med,five +,two,small,**,+
+low,med,five +,two,med,****,+
+low,high,five +,two,large,***,-
+low,low,five +,four,large,**,-
+low,med,four,three,small,****,+
+high,high,four,three,med,***,-
+med,high,two,three,small,,-
+med,low,four,three,large,****,+
+med,high,three,four,large,*****,+
+low,high,five +,two,med,*,-
+high,low,three,five +,med,**,-
+high,high,four,three,large,**,-
+med,low,three,four,large,***,+
+med,high,four,three,med,*****,-
+low,med,three,three,large,*****,-
+low,med,four,five +,med,****,+
+high,med,five +,two,large,***,-
+high,low,four,three,small,*,-
+low,low,two,five +,small,***,-
+med,med,two,three,large,**,-
+low,,four,two,med,*,-
+low,high,three,two,med,*,-
+low,med,four,two,med,**,+
+high,high,two,four,med,*****,-
+low,high,three,two,large,**,-
+high,high,four,four,large,*****,-
+high,high,five +,two,large,***,-
+high,med,three,,med,*****,-
+low,med,four,four,small,*****,+
+med,med,five +,two,med,****,-
+med,high,four,three,large,****,-
+low,med,four,two,small,**,+
+low,low,five +,five +,small,****,-
+low,high,two,five +,med,*,-
+med,high,two,three,small,***,-
+low,med,two,two,large,*****,-
+med,low,three,four,small,*****,-
+,med,three,four,small,**,-
+high,low,four,three,small,***,-
+low,high,three,three,large,*****,-
+,high,three,five +,small,*,-
+low,low,two,,small,***,-
+med,high,two,four,small,*,-
+high,low,four,four,med,*****,-
+high,low,four,five +,large,*****,-
+low,low,five +,four,med,****,-
+high,med,two,three,med,***,-
+low,med,three,two,med,****,-
+low,med,four,three,med,**,+
+high,low,three,two,med,**,-
+med,med,four,five +,large,*****,-
+low,high,five +,four,small,**,-
+med,low,five +,three,med,*****,+
+low,high,three,three,med,*,+
+high,med,five +,two,small,****,-
+med,med,three,four,large,*,-
+med,high,five +,three,large,*,+
+med,low,four,four,med,*,+
+low,med,three,four,med,*,-
+high,low,two,two,med,****,-
+med,high,four,four,med,,-
+high,med,three,five +,med,**,-
+low,low,two,five +,large,****,-
